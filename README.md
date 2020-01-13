@@ -10,6 +10,7 @@ This is a project that provides info on how Android [Tasker App] XML files work.
 - [Tasker XML File Nodes And Tags](#Tasker-XML-File-Nodes-And-Tags)
 - [Tasker XML Codes](#Tasker-XML-Codes)
 - [Tasker XML Examples](#Tasker-XML-Examples)
+- [Downloads](#Downloads)
 - [Current Features](#Current-Features)
 - [Planned Features](#Planned-Features)
 - [Issues](#Issues)
@@ -369,6 +370,12 @@ The `Profile 2` will run the anonymous task with id `151` as exit task set in th
 
 The `TAP` event of the Text Element with `sr="elements0"` of `Scene 1` will run the anonymous task with id `101` set in the `<itemclickTask>` tag.
 The `Key` event of the `Scene 2` will run the anonymous task with id `103` set in the `<keyTask>` tag.
+##
+
+
+### Downloads
+
+- [GitHub releases](https://github.com/Taskomater/Tasker-XML-Info/releases).
 ##
 
 
