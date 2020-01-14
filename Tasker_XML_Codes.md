@@ -1,4 +1,4 @@
-# Task Actions (348)
+# Task Actions (354)
 
 `15`: `Lock`  
 `16`: `System Lock`  
@@ -79,7 +79,7 @@
 `147`: `Show Prefs`  
 `148`: `Show Runlog`  
 `150`: `Keyguard`  
-`151`: **`Deprecated`**
+`151`: `Deprecated`  
 `152`: `Set Widget Icon`  
 `153`: `Import Data`  
 `155`: `Set Widget Label`  
@@ -99,7 +99,7 @@
 `177`: `Haptic Feedback`  
 `185`: `Filter Image`  
 `187`: `Save Image`  
-`188`: `Load Image`  
+`188`: `Load Image`, `Dark Mode`  
 `189`: `Crop Image`  
 `190`: `Flip Image`  
 `191`: `Rotate Image`  
@@ -166,12 +166,13 @@
 `307`: `Media Volume`  
 `308`: `System Volume`  
 `309`: `DTMF Volume`  
-`310`: `Silent Mode`  
+`310`: `Silent Mode`, `Vibrate Mode`  
 `311`: `BT Voice Volume`  
-`312`: `Interrupt Mode`  
+`312`: `Interrupt Mode`, `Do Not Disturb`  
 `313`: `Sound Mode`  
 `314`: `Authentication Dialog`  
 `316`: `Display Size`  
+`317`: `NFC`  
 `318`: `Force Rotation`  
 `319`: `Ask Permissions`  
 `320`: `Ping`  
@@ -214,6 +215,7 @@
 `364`: `Test Next Alarm`  
 `365`: `Tasker Function`  
 `366`: `Get Location v2`  
+`367`: `Camera`  
 `368`: `Pick Location`  
 `369`: `Array Process`  
 `370`: `Shortcut`  
@@ -227,7 +229,7 @@
 `408`: `Delete Directory`  
 `409`: `Create Directory`  
 `410`: `Write File`  
-`411`: **`Deprecated`**
+`411`: `Deprecated`  
 `412`: `List Files`  
 `415`: `Read Line`  
 `416`: `Read Paragraph`  
@@ -257,17 +259,18 @@
 `475`: `GZip`  
 `476`: `GUnzip`  
 `490`: `Media Button Events`  
-`500`: **`Deprecated`**
-`510`: **`Deprecated`**
+`500`: `Deprecated`  
+`510`: `Deprecated`  
+`511`: `Torch`  
 `512`: `Status Bar`  
 `513`: `Close System Dialogs`  
-`520`: **`Deprecated`**
+`520`: `Deprecated`  
 `523`: `Notify`  
 `525`: `Notify LED`  
-`530`: **`Deprecated`**
+`530`: `Deprecated`  
 `536`: `Notify Vibrate`  
 `538`: `Notify Sound`  
-`540`: **`Deprecated`**
+`540`: `Deprecated`  
 `543`: `Start System Timer`  
 `544`: `Timer Widget Control`  
 `545`: `Variable Randomize`  
@@ -281,7 +284,7 @@
 `553`: `SMS Backup+`  
 `555`: `BeyondPod`  
 `556`: `GrazeRSS`  
-`557`: **`Deprecated`**
+`557`: `Deprecated`  
 `558`: `Android Notifier`  
 `559`: `Say`  
 `566`: `Set Alarm`  
@@ -289,7 +292,7 @@
 `568`: `DailyRoads Voyager`  
 `590`: `Variable Split`  
 `592`: `Variable Join`  
-`594`: **`Deprecated`**
+`594`: `Deprecated`  
 `595`: `Variable Query`  
 `596`: `Variable Convert`  
 `597`: `Variable Section`  
@@ -301,7 +304,7 @@
 `664`: `Java Function`  
 `665`: `Java Object`  
 `667`: `SQL Query`  
-`696`: **`Deprecated`**
+`696`: `Deprecated`  
 `697`: `Shut Up`  
 `699`: `Say To File`  
 `701`: `Dpad`  
@@ -321,7 +324,7 @@
 `762`: `Zoom Colour`  
 `775`: `Write Binary`  
 `776`: `Read Binary`  
-`777`: **`Deprecated`**
+`777`: `Deprecated`  
 `779`: `Notify Cancel`  
 `793`: `Zoom State`  
 `794`: `Zoom Position`  
@@ -334,7 +337,7 @@
 `815`: `List Apps`  
 `820`: `Stay On`  
 `822`: `Display AutoRotate`  
-`876`: **`Deprecated`**
+`876`: `Deprecated`  
 `877`: `Send Intent`  
 `888`: `Variable Add`  
 `890`: `Variable Subtract`  
@@ -359,7 +362,7 @@
 `988`: `Car Mode`  
 `989`: `Night Mode`  
 `999`: `Set Light`  
-`1000`: `Plugin`
+`1000`: `Plugin`  
 
 
 
@@ -440,7 +443,7 @@
 `3050`: `Variable Set`  
 `3060`: `Variable Cleared`  
 `3071`: `Zoom Click`  
-`1000`: `Plugin`
+`1000`: `Plugin`  
 
 
 
@@ -493,4 +496,4 @@
 `186`: `Custom Setting`  
 `188`: `Dark Mode`  
 `195`: `NFC Status`  
-`1000`: `Plugin`
+`1000`: `Plugin` 
