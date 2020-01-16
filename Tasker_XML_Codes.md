@@ -220,6 +220,7 @@
 `369`: `Array Process`  
 `370`: `Shortcut`  
 `371`: `Astrid`  
+`375`: `ADB Wifi`  
 `376`: `Share File`  
 `395`: `JD Status`  
 `400`: `Move`  
