@@ -119,15 +119,15 @@ The exported files depending on the export type will have the following XML node
 To find what type of exported file a given XML file is, even if it is not correctly named or described, examine the nodes in the XML file.
 ```
 - If there is only one `Task` node; then
-	It's a Task file.
+	Its a Task file.
 - If there is only one `Scene` node and some optional `Task` nodes without `<nme>` tags; then
-	It's a Scene file.
+	Its a Scene file.
 - If there is only one `Profile` node and some `Task` nodes; then
-	It's a Project file.
+	Its a Profile file.
 - If the there is only one `Project` node and its `<name>` tag does not contain `Base`; then
-	It's a Project file.
+	Its a Project file.
 - Else
-	It's a Data Backup file.
+	Its a Data Backup file.
 ```
 ##
 
